@@ -32,7 +32,7 @@ X Education wants help in selecting the most promising leads, i.e. the leads tha
 
 - Leads.csv : Dataset
 
-- lead_Score.ipynb : Python notebook with data analysis and model building and evaluation
+- lead_score.ipynb : Python notebook with data analysis and model building and evaluation
 
 - Assignment_Subjective_Questions_Answered.pdf : Subjective questions answered
 
